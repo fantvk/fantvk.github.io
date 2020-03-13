@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+
+node_modules/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+build/
+static/dist
+.env
+.npmrc
+coverage
+.nyc_output
+.tmp
+.happypack
